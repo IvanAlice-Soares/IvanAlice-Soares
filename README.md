@@ -1,5 +1,5 @@
-## Hi! I mainly do web dev and cybersecurity with Gamedev and sprite work/3D Modeling as a hobby.
-### Olá! Eu falo principalmente desenvolvimento Web e cibersegurança com desenvolvimento de jogos e spritework/Modelagem 3D como passatempo.
+## Hi! I mainly do **web dev** and **cybersecurity** with **Gamedev** and **sprite work/3D Modeling** as a hobby.
+### Olá! Eu falo principalmente **desenvolvimento Web** e **cibersegurança** com desenvolvimento de **jogos** e **spritework/Modelagem 3D** como passatempo.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAlice-Soares&layout=compact&theme=chartreuse-dark"/>
