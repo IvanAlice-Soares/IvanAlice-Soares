@@ -13,6 +13,6 @@
 ##
 
 <div>
-  <a img align="center" href="https://www.linkedin.com/in/ivan-luis-soares-0a0149230/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+  <a img align="center" href="https://www.linkedin.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
   <a img align="center" href="https://steamcommunity.com/id/AbsolutionGameDev/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="blank"></a>
 </div>
